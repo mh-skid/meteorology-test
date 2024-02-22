@@ -1,3 +1,6 @@
+##  this is just a poc rn so dont make fun of me
+##  if you do i will literally groom you
+
 #pip install python-weather
 #pip install pygame
 
