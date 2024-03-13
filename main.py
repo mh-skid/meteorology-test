@@ -30,4 +30,4 @@ if __name__=="__main__":
   
   #shameless api rip lmao
   #add ui with pygame later
-  #kapeesh
+  #oooh ooh and its judt likr buddy hoolllyy
